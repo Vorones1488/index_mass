@@ -1,0 +1,32 @@
+body {
+    background-color: silver;
+}
+
+.container {
+    background-color: aqua;
+    width: 700px;
+    margin: 0 auto;
+  
+}
+
+header div {
+    text-align: center;
+}
+
+main {
+    padding: 10px;
+   
+}
+
+header,
+footer {
+    background-color: coral;
+    padding: 10px;
+}
+p {
+    overflow: hidden;
+}
+
+.result {
+    color: red;
+}
